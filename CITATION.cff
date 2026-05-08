@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Práctica:Diseño de controladores'
+title: 'Examen Final: Sistema circulatorio'
 message: Modelado de Sistemas Fisiológicos/Ingeniería Biomedica
 type: software
 authors:
@@ -11,9 +11,9 @@ authors:
     email: alan.garciat201@tectijuana.edu.mx
 identifiers:
   - type: url
-    value: 'https://github.com/alangarciat201-hub/MSFPractica1'
+    value: 'https://github.com/alangarciat201-hub/MSFPExamenFinal'
     description: Repositorio GitHub
-repository-code: 'https://github.com/alangarciat201-hub/MSFPractica1'
+repository-code: 'https://github.com/alangarciat201-hub/MSFPExamenFinal'
 keywords:
   - Diseño de controladores
   - Circuito RLC
@@ -22,4 +22,4 @@ keywords:
   - Simulacion numerica
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-02-24'
+date-released: '2026-05-8'
